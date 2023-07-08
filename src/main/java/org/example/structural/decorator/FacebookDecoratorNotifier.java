@@ -1,4 +1,4 @@
-package org.example.structural;
+package org.example.structural.decorator;
 
 public class FacebookDecoratorNotifier extends BaseNotifierDecorator {
     public FacebookDecoratorNotifier(Notifier notifier) {

@@ -1,4 +1,4 @@
-package org.example.structural;
+package org.example.structural.decorator;
 
 public class SlackDecoratorNotifier extends BaseNotifierDecorator {
     public SlackDecoratorNotifier(Notifier notifier) {
