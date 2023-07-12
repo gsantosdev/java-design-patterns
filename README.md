@@ -39,6 +39,6 @@ Behavioral patterns focus on algorithms and the assignment of responsibilities a
 - [ ] **Memento**: Enables capturing and restoring the internal state of an object without violating encapsulation.
 - [ ] **Observer**: Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
 - [ ] **State**: Allows an object to alter its behavior when its internal state changes.
-- [ ] **Strategy**: Defines a family of algorithms, encapsulates each one, and makes them interchangeable.
+- [X] **Strategy**: Defines a family of algorithms, encapsulates each one, and makes them interchangeable.
 - [ ] **Template Method**: Defines the skeleton of an algorithm in an operation, deferring some steps to subclasses.
 - [ ] **Visitor**: Allows adding new operations to existing objects without modifying their structure.
